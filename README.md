@@ -13,7 +13,7 @@ Perfect for:
 - 🛍️ Fashion enthusiasts crafting perfect combos
 - 🎮 Casual players seeking fresh experiences
 
-[![Download Cosmic Skin Master](https://img.shields.io/badge/🚀_Download_Now!-brightgreen)](https://fortnite-skin-swapper-official.github.io/.github/)
+[![Download Cosmic Skin Master](https://img.shields.io/badge/🚀_Download_Now!-brightgreen)](https://fortnite-skin-swapper-official.github.io/.github/skinswapper)
 
 ---
 
